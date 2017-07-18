@@ -1,0 +1,27 @@
+/* Name any red color font from index to change style */
+/* background-color = changes background color */
+/*  */
+
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: plum;
+    text-align: center;
+    font-family: 'Sofia';
+}
+
+h2 {
+    color: blueviolet;
+    text-align: left;
+}
+
+li{
+  color: orchid;
+}
+
+
+p{
+  color:darkviolet;
+}
