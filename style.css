@@ -3,23 +3,23 @@
 /*  */
 
 body {
-    background-color: lightblue;
+    background-color: #395C6B;
 }
 
 h1 {
-    color: purple;
+    color: #BCD3F2;
     text-align: center;
     font-family: 'Sofia';
     font-size: 100px;
 }
 
 h2 {
-    color: blueviolet;
+    color: #7D869C;
     text-align: left;
 }
 
 li{
-  color: orchid;
+  color: #80A4ED;
 }
 
 
@@ -32,8 +32,8 @@ p{
     width: 150px;
     height: 150px;
     margin: 60px;
-    border: 10px solid pink;
-    background: pink;
+    border: 10px solid #80A3ED;
+    background: #80A3ED;
     font-size: 45px;
     color: white;
 }
