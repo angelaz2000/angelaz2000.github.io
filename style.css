@@ -2,12 +2,13 @@
 /* background-color = changes background color */
 /*  */
 
+
 body {
-    background-color: #395C6B;
+    background-color: plum;
 }
 
 h1 {
-    color: #BCD3F2;
+    color: blue;
     text-align: center;
     font-family: 'Sofia';
     font-size: 100px;
@@ -29,11 +30,29 @@ p{
 
 #Me{
   display: inline-block;
+    border-radius: 50px;
     width: 150px;
-    height: 150px;
+    margin: 30px;
+    border: 10px solid #80A3ED;
+    background: #80A3ED;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    top: 50%;
+    padding: 0;
+}
+
+#about_Me{
+  display: inline-block;
+    border-radius: 75px;
+    height: 125px;
+    width: 150px;
     margin: 60px;
     border: 10px solid #80A3ED;
     background: #80A3ED;
     font-size: 45px;
     color: white;
+    text-align: center;
+    top: 50%;
+    padding: 0;
 }
